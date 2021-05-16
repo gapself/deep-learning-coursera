@@ -21,7 +21,7 @@
 - True
 - <span style="color:#99e9fa"><b> False </span></b> 
 
-###**5. Which one of these plots represents a ReLU activation function?**
+###**5. Which one of these plots represents a ReLU activation function?** <br>
 <img width="245" alt="Screenshot 2021-05-16 at 17 11 00" src="https://user-images.githubusercontent.com/38349049/118402320-b508b480-b669-11eb-879e-952cb783b961.png"><br>
 - <span style="color:#99e9fa"><b> Figure 3 </span></b> 
 
@@ -35,7 +35,7 @@
 
 ### 8. Why is an RNN (Recurrent Neural Network) used for machine translation, say translating English to French? (Check all that apply.)
 - RNNs represent the recurrent process of Idea->Code->Experiment->Idea->....
-- <span style="color:#99e9fa"><b>It can be trained as a supervised learning problem.</span></b>
+- <span style="color:green"><b>It can be trained as a supervised learning problem.</span></b>
 - <span style="color:#99e9fa"><b>It is applicable when the input/output is a sequence (e.g., a sequence of words).</span></b>
 - It is strictly more powerful than a Convolutional Neural Network (CNN).
 
