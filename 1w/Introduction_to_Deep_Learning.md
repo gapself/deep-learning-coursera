@@ -13,7 +13,9 @@
 ###**3. Recall this diagram of iterating over different ML ideas. Which of the statements below are true? (Check all that apply.)**
 <img width="285" alt="Screenshot 2021-05-16 at 17 05 30" src="https://user-images.githubusercontent.com/38349049/118402213-3ad83000-b669-11eb-8487-6430630497d6.png"><br>
 - It is faster to train on a big dataset than a small dataset. 
-- Recent progress in deep learning algorithms has allowed us to train good models faster (even without changing the CPU/GPU hardware). 
+- :white_check_mark: Recent progress in deep learning algorithms has allowed us to train good models faster (even without changing the CPU/GPU hardware). <br>
+  *Yes. For example, we discussed how switching from sigmoid to ReLU activation functions allows faster training.
+
 - :white_check_mark: <span style="color:#99e9fa"><b> Faster computation can help speed up how long a team takes to iterate to a good idea. </b></span>
 - :white_check_mark: <span style="color:#99e9fa"><b> Being able to try out ideas quickly allows deep learning engineers to iterate more quickly. </b></span>
 
