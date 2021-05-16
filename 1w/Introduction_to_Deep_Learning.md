@@ -35,8 +35,8 @@
 
 ### 8. Why is an RNN (Recurrent Neural Network) used for machine translation, say translating English to French? (Check all that apply.)
 - RNNs represent the recurrent process of Idea->Code->Experiment->Idea->....
-- <span style="color:green"><b>It can be trained as a supervised learning problem.</span></b>
-- <span style="color:#99e9fa"><b>It is applicable when the input/output is a sequence (e.g., a sequence of words).</span></b>
+-  <span style="color:green"><b>It can be trained as a supervised learning problem.</span></b>
+- :white_check_mark: <span style="color:#99e9fa"><b>It is applicable when the input/output is a sequence (e.g., a sequence of words).</span></b>
 - It is strictly more powerful than a Convolutional Neural Network (CNN).
 
 ### 9. In this diagram which we hand-drew in lecture, what do the horizontal axis (x-axis) and vertical axis (y-axis) represent? 
