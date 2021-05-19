@@ -7,9 +7,11 @@ fat = [1.8, 135.0, 99.0, 0.9]
 
 A = np.array([carb, protein, fat])
 print(A)
+print(A.shape)
 
 cal = A.sum(axis=0)  # axis=0 means sum up vertically
 print(cal)
+print(cal.shape)
 
 percentage = 100 * A / cal.reshape(1, 4)  # .reshape(1,4) optional, good practice
 print(percentage)
