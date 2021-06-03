@@ -15,3 +15,7 @@ print(cal.shape)
 
 percentage = 100 * A / cal.reshape(1, 4)  # .reshape(1,4) optional, good practice
 print(percentage)
+
+
+
+
